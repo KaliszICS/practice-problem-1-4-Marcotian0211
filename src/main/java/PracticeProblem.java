@@ -50,7 +50,7 @@ public class PracticeProblem {
 		word1=scanner.nextLine();
 		System.out.print("Input a last name: ");
 		word2=scanner.nextLine();
-		word2=word2.replace(".","");
+		word2=word2.replace(".",".");
 		System.out.print("Input an age: ");
 		num1=scanner.nextInt();
 		System.out.println(word2+", "+ word1+" - "+num1);

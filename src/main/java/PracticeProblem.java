@@ -42,7 +42,7 @@ public class PracticeProblem {
 
 	public static void q4() {
 		Scanner scanner=new Scanner(System.in);
-		String word1;
+		String word1 ;
 		String word2;
 		int num1;
 
